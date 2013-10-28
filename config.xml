@@ -1,9 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.gvtechcom.sudoilap" version="1.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.gvtechcom.doilap" version="1.0">
 
 	<name>Bé học sự Đối Lập</name>
 	<description>Game bé học sự Đối Lập</description>
-	<author>GV Apps</author>	<gap:platforms>
+	<author>GV Apps</author>
+
+	<gap:platforms>
 		<gap:platform name="ios" />
 		<gap:platform name="android" />
 		<gap:platform name="webos" />
@@ -11,11 +13,12 @@
 		<gap:platform name="blackberry" project="widgets"/>
 	</gap:platforms>
 
-	<icon src="icon_128.png" width="128" height="128" gap:role="default" />
+	<icon src="icon-128.png" width="128" height="128" gap:role="default" />
 
 	<preference name="permissions" value="none"/>
 
-	<feature name="http://api.phonegap.com/1.0/network"/>	<preference name="orientation" value="landscape" />
+	<feature name="http://api.phonegap.com/1.0/network"/>
+	<preference name="orientation" value="landscape" />
 	<preference name="fullscreen" value="true" />
 	<preference name="target-device" value="universal" />
 

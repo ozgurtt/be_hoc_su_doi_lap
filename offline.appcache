@@ -1,9 +1,8 @@
 ﻿CACHE MANIFEST
-#1381202452
+#1382951748
 index.html
 c2runtime.js
-jquery-1.7.1.min.js
-logo.png
+jquery-2.0.0.min.js
 images\1cloud-sheet0.png
 images\1pinscherbody-sheet0.png
 images\1pinscherbone-sheet0.png
@@ -64,7 +63,6 @@ images\6bulldogbody-sheet0.png
 images\6bulldoghead-sheet0.png
 images\6fence-sheet0.png
 images\6greyhoundbody-sheet0.png
-images\6greyhoundbody-sheet1.png
 images\6shadowfence-sheet0.png
 images\p6_back-sheet0.png
 images\xylophone-sheet0.png
@@ -222,9 +220,7 @@ images\meolai-sheet0.png
 images\bg-sheet0.png
 images\guide-sheet0.png
 images\cat-sheet0.png
-images\cat-sheet1.png
 images\36t-sheet0.png
-images\36t-sheet1.png
 images\loading_-sheet0.png
 images\loading_-sheet1.png
 images\train1-sheet0.png
@@ -422,5 +418,10 @@ media\p8.m4a
 media\p8.ogg
 media\p9.m4a
 media\p9.ogg
+icon-16.png
+icon-32.png
+icon-114.png
+icon-128.png
+loading-logo.png
 NETWORK:
 *
